@@ -1,0 +1,23 @@
+﻿生成启动时间为 2016/3/18 21:27:59。
+     1>项目“F:\程序编写\wc1\wc1\wc1.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\程序编写\wc1\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\wc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\程序编写\wc1\Release\wc.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\wc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\程序编写\wc1\Release\wc.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\程序编写\wc1\Release\wc.lib" /MACHINE:X86 Release\wc1.obj
+         正在生成代码
+         已完成代码的生成
+         wc1.vcxproj -> F:\程序编写\wc1\Release\wc.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\程序编写\wc1\Release\wc.exe;#1" /manifest Release\wc.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\wc.unsuccessfulbuild”。
+         正在对“Release\wc.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\程序编写\wc1\wc1\wc1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.85
